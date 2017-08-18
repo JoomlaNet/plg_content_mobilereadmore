@@ -1,9 +1,9 @@
 <?php
 /**
- * @package    Content - Automatic mobile spoiler
+ * @package    Content - Mobile readmore plugin
  * @version    1.0.0
- * @author     Joomlanet - joomlanet.ru
- * @copyright  Copyright (c) 2016 - 2017  Joomlanet. All rights reserved.
+ * @author     JoomlaNet - joomlanet.ru
+ * @copyright  Copyright (c) 2017 - 2017 JoomlaNet. All rights reserved.
  * @license    GNU/GPL license: http://www.gnu.org/copyleft/gpl.html
  * @link       https://joomlanet.ru
  */
